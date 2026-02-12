@@ -4,20 +4,8 @@
         "url": "./电台.txt"
     },
     {
-        "name": "港台",
-        "url": "https://live.catvod.com/tv.m3u"
-    },
-    {
-        "name": "央卫",
-        "url": "https://iptv.catvod.com/tv.m3u"
-    },
-    {
         "name": "Jack",
         "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
-    },
-    {
-        "name": "bxtv",
-        "url": "https://bxtv.3a.ink/live.m3u"
     },
     {
         "name": "YanG",
